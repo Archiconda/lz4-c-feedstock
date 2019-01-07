@@ -1,6 +1,8 @@
 About lz4-c
 ===========
 
+[![Powered by NumFOCUS](https://img.shields.io/badge/powered%20by-NumFOCUS-orange.svg?style=flat&colorA=E1523D&colorB=007D8A)](http://numfocus.org)
+
 Home: https://www.lz4.org
 
 Package license: BSD 2-clause
@@ -23,6 +25,7 @@ Current build status
 [![Linux](https://img.shields.io/circleci/project/github/conda-forge/lz4-c-feedstock/master.svg?label=Linux)](https://circleci.com/gh/conda-forge/lz4-c-feedstock)
 [![OSX](https://img.shields.io/travis/conda-forge/lz4-c-feedstock/master.svg?label=macOS)](https://travis-ci.org/conda-forge/lz4-c-feedstock)
 [![Windows](https://img.shields.io/appveyor/ci/conda-forge/lz4-c-feedstock/master.svg?label=Windows)](https://ci.appveyor.com/project/conda-forge/lz4-c-feedstock/branch/master)
+[![linux-aarch64](https://img.shields.io/shippable/5c32d1a8302eb707003c0a24/aarch64.svg?label=linux-aarch64)](https://app.shippable.com/github/Archiconda/lz4-c-feedstock)
 
 Current release info
 ====================
@@ -110,3 +113,10 @@ In order to produce a uniquely identifiable distribution:
  * If the version of a package **is** being increased, please remember to return
    the [``build/number``](https://conda.io/docs/user-guide/tasks/build-packages/define-metadata.html#build-number-and-string)
    back to 0.
+
+Feedstock Maintainers
+=====================
+
+* [@rmax](https://github.com/rmax/)
+* [@wesm](https://github.com/wesm/)
+
